@@ -8,7 +8,11 @@ you could watch the step by step tutorial on how to do this project on our youtu
 requirements: 
 *******************************
   LED         x3
+  ***********************
   pushbutton  x1
+  ***********************
   jumpers     x6  (male to male)
+  *******************************
   resistors   x3  (100 ohms)
+  
   
